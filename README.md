@@ -1,2 +1,3 @@
 # Learning
-My training-wheel repo
+My training-wheel repo while I learn Python
+
