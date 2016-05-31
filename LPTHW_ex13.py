@@ -1,5 +1,6 @@
-print testing git 
+import sys
 
-print more testing 
+print "figruing out this test"
 
-print more testing times two 
+def printed():
+	print "Does this even work?"
